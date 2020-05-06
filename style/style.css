@@ -398,6 +398,11 @@ html{
             }
 
           }
+         @media(max-width:800px){
+            #body{
+                padding-top: 7%;
+            }
+        }
         
 
         html,
